@@ -1,7 +1,0 @@
-,Method,Accuracy,Runtime,Data Requirements,Interpretability
-0,Watershed,1.8528291991958212,0.06700380006805062,Single image,High
-1,SVM,0.9979111797293615,6.806023499928415,100+ images,Medium
-2,Random Forest,1.0,1.8166863000951707,100+ images,Medium-High
-3,k-Means,0.27933786046149445,115.69635909982026,100+ images,Low
-4,CNN,,,100+ images,Low
-5,U-Net,,,100+ images,High
