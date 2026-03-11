@@ -21,3 +21,7 @@ This assignment developed a variety of classical, machine learning, and deep lea
 *K-Means clustering:* An unsupervised machine learning method that iteratively groups together clusters of data for classification. While not the fastest, this technique can be deployed along with principal component analysis (PCA) to more straightforwardly visualize data trends. Compared to Random Forest, the k-means model is less precise but more transparent. Testing a few values for *k* (number of clusters), I found *k*=3 to have the best silhouette score (0.279).
 
 *CNN & U-Net:* A convolutional neural network (CNN) is a deep learning architecture using hierarchically connected layers to classify and segment image features. U-Net is a segmentation-specific type of CNN with a U-shaped architecture consisting of encoder and decoder portions joined by skip connections. These two architectures allow large-scale automation of feature detection, while also working well without labeled data (U-Net especially). I will update this document when I finish debugging these sections.
+
+**Assignment 05/06 Update, 3/11/2026**
+
+Assignment 5 & 6 is uploaded, with the responses contained inside the notebook.
